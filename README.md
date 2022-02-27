@@ -11,4 +11,6 @@ or `unbreakinggold.ml` in Minecraft: Java Edition. There is no Bedrock
 Edition server or proxy yet. The server is hosted at
 [FMCS](https://panel.freemcserver.net/user/register?ref=311353).
 
+![Server Status](https://mcapi.us/server/image?ip=mc.unbreakinggold.ml)
+
 This repository is licensed with the MIT license.
