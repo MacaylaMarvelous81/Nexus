@@ -1,9 +1,8 @@
 # Nexus
-___
 
 ## About
-Nexus is plugin for the Minecraft server software
-[Spigot](https://hub.spigotmc.org). It adds items with recipes. It is mainly
+Nexus is a plugin for the Minecraft server software
+[Spigot](https://hub.spigotmc.org). It adds items with recipes, and is
 meant for play in regular Survival Mode, but it should work in other kinds
 of servers too.
 
