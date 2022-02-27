@@ -45,7 +45,7 @@ public class CupcakeRecipe extends CustomRecipe {
                 .addIngredient(Material.BREAD)
                 .addIngredient(Material.SUGAR);
         // Recipes in the same group will show up as a single entry in the recipe book
-        recipe.setGroup("nexus_item");
+        // recipe.setGroup("nexus_item");
         return recipe;
     }
 

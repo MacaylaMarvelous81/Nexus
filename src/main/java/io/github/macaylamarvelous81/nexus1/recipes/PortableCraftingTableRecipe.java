@@ -38,7 +38,6 @@ public class PortableCraftingTableRecipe extends CustomRecipe {
                 )
                 .setIngredient('l', Material.LEATHER)
                 .setIngredient('c', Material.CRAFTING_TABLE);
-        recipe.setGroup("nexus_item");
 
         return recipe;
     }
